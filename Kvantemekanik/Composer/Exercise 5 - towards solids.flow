@@ -1,0 +1,3892 @@
+{
+    "connections": [
+        {
+            "id1": "{d4111ac0-2f37-4ef6-a672-dbf1c5a04fa7}",
+            "id2": "{936bf90b-f282-4956-9df9-45d29a53b21d}",
+            "port_id1": "{af2fce31-0013-4e1f-a37f-fbdfb183dd6b}",
+            "port_id2": "{639e8ef8-e462-41c7-ba56-23a798fc4287}"
+        },
+        {
+            "id1": "{d4111ac0-2f37-4ef6-a672-dbf1c5a04fa7}",
+            "id2": "{de99c1ff-03f4-43e9-8412-66c436eb1302}",
+            "port_id1": "{13dd0028-70e9-4309-bcf7-1b9a3a9d19d7}",
+            "port_id2": "{547f73db-dbda-4881-ad52-c9270d757bec}"
+        },
+        {
+            "id1": "{d4111ac0-2f37-4ef6-a672-dbf1c5a04fa7}",
+            "id2": "{dd800278-8dbf-4b02-b4fc-b2e156873c5e}",
+            "port_id1": "{1e7a4771-67fe-4063-8b7c-8c31fb0a49cb}",
+            "port_id2": "{4370863d-e570-4bbb-8fdf-0db3b8322504}"
+        },
+        {
+            "id1": "{e696d098-f9e1-4744-b351-3968c6a7c300}",
+            "id2": "{d4111ac0-2f37-4ef6-a672-dbf1c5a04fa7}",
+            "port_id1": "{844a92b6-495d-4ff9-9717-5f19519c0851}",
+            "port_id2": "{41caf461-fffa-4323-a3cf-8c7c5840d3f4}"
+        },
+        {
+            "id1": "{6bcaf82f-892e-432c-b69b-29fd4e910c02}",
+            "id2": "{5abc3031-b0b0-4ab2-8629-449204b112e7}",
+            "port_id1": "{29730c13-af90-48c3-a260-b6301a452c1f}",
+            "port_id2": "{d7ddacca-08e6-495f-9d35-cee7a3278003}"
+        },
+        {
+            "id1": "{6bcaf82f-892e-432c-b69b-29fd4e910c02}",
+            "id2": "{0af2a6b2-2d55-44be-8ecd-d4dc136280f3}",
+            "port_id1": "{967de316-3204-4104-a07d-f4d24aed37f5}",
+            "port_id2": "{1125cd12-ae52-4bab-bb1b-753a9c6469b4}"
+        },
+        {
+            "id1": "{6bcaf82f-892e-432c-b69b-29fd4e910c02}",
+            "id2": "{37aa956d-a413-440b-bb1f-9a99ba894657}",
+            "port_id1": "{a2cdbdfa-7e95-43ce-9f03-c8cb85226b13}",
+            "port_id2": "{c38593ba-3cb2-4da8-b384-c50f84dbec2d}"
+        },
+        {
+            "id1": "{5ef2a589-2a7c-4789-9673-300572ea8974}",
+            "id2": "{09d7ac67-5b30-4662-b862-dc58dd1d9ab4}",
+            "port_id1": "{521da275-0ddb-4545-bf2a-2d2191361203}",
+            "port_id2": "{34507eef-90bf-4a51-af39-330c9ecd33a9}"
+        },
+        {
+            "id1": "{5ef2a589-2a7c-4789-9673-300572ea8974}",
+            "id2": "{6bcaf82f-892e-432c-b69b-29fd4e910c02}",
+            "port_id1": "{6d42b087-1c29-44d8-9408-72b658ad7ed4}",
+            "port_id2": "{ca8aa18b-4605-46b2-9749-6ee5ec45cf80}"
+        },
+        {
+            "id1": "{6ec8df59-6f7b-4e6b-b578-a3aced3c2e71}",
+            "id2": "{5ef2a589-2a7c-4789-9673-300572ea8974}",
+            "port_id1": "{e8ba052b-b99f-43f6-8b69-84ef209cc685}",
+            "port_id2": "{c405e257-80e3-49be-90b1-98af88bca9aa}"
+        },
+        {
+            "id1": "{fc38a2be-d152-457e-98c2-01417f90693c}",
+            "id2": "{706d6209-caf5-42ef-9c86-1b03620d0857}",
+            "port_id1": "{129b06bd-01bc-4db2-aee2-ae5f15c06d9b}",
+            "port_id2": "{4edc849c-f6b3-4a47-b3ab-0af1d6b4b015}"
+        },
+        {
+            "id1": "{fc38a2be-d152-457e-98c2-01417f90693c}",
+            "id2": "{3c020426-cd84-4d25-8288-c40a6b397c23}",
+            "port_id1": "{855073f6-438a-4afe-bb98-c6a828b69f0f}",
+            "port_id2": "{573f163c-c94d-4b02-a6c0-7b9f9d588361}"
+        },
+        {
+            "id1": "{fc38a2be-d152-457e-98c2-01417f90693c}",
+            "id2": "{ac672c83-b7f1-421e-bdd4-8bc1844b020c}",
+            "port_id1": "{1a7d78e9-4093-4f4c-a662-d3769ef3e844}",
+            "port_id2": "{5b6c811f-7460-45f7-b8c3-30d73f23acd9}"
+        },
+        {
+            "id1": "{04ba46ca-7626-44ef-adbd-9c9293600edc}",
+            "id2": "{fc38a2be-d152-457e-98c2-01417f90693c}",
+            "port_id1": "{513c2832-065d-4ca7-9bcb-018a503d5bdb}",
+            "port_id2": "{e37a306e-bf13-40a6-80d2-a55ec59abe37}"
+        },
+        {
+            "id1": "{04ba46ca-7626-44ef-adbd-9c9293600edc}",
+            "id2": "{fdbe4b2c-1ad2-4904-9d23-14a06ccf11f1}",
+            "port_id1": "{7958c6a3-6ac5-49f1-a7e5-f1dc16cd876f}",
+            "port_id2": "{ebf6e50f-2f3d-486c-b57e-90f42959affb}"
+        },
+        {
+            "id1": "{ca70d34e-950e-4c19-9d61-a9bc2c9d3558}",
+            "id2": "{04ba46ca-7626-44ef-adbd-9c9293600edc}",
+            "port_id1": "{c422fd65-ea1e-4b97-bbc4-3c5e7042a32c}",
+            "port_id2": "{b0090f2c-e9d9-47c1-a918-40d2319b1142}"
+        },
+        {
+            "id1": "{2b3b1554-0c31-4878-bf48-f928557e41d6}",
+            "id2": "{1c9d4c32-d81b-4ed3-99fa-dd646f203260}",
+            "port_id1": "{9807f221-60ce-462b-966c-0fb8c4dc1fe9}",
+            "port_id2": "{f2b69c26-48b8-4e07-93e4-306111dbca4b}"
+        },
+        {
+            "id1": "{2b3b1554-0c31-4878-bf48-f928557e41d6}",
+            "id2": "{f6f57014-e9c5-4117-a969-30c815214346}",
+            "port_id1": "{334eb2f0-66b3-40e4-a523-3935aa59e37c}",
+            "port_id2": "{cb764cd1-d14c-43be-8bbe-a90025c50766}"
+        },
+        {
+            "id1": "{2b3b1554-0c31-4878-bf48-f928557e41d6}",
+            "id2": "{80050d99-584b-4bab-93e3-f64e125b877e}",
+            "port_id1": "{78b4bc45-d405-4324-86f5-b30ed9779956}",
+            "port_id2": "{99325174-6857-4a7a-8419-e3e661be4cdf}"
+        },
+        {
+            "id1": "{9e8c23fa-5d61-49be-9409-02560c436c95}",
+            "id2": "{89ebbdc2-8493-4450-8768-86fd499010d6}",
+            "port_id1": "{af10bfc0-c4f7-4ba9-a1f0-09b6e2212dc0}",
+            "port_id2": "{81ed5c15-1dbe-4351-9675-22b20bd71114}"
+        },
+        {
+            "id1": "{9e8c23fa-5d61-49be-9409-02560c436c95}",
+            "id2": "{2b3b1554-0c31-4878-bf48-f928557e41d6}",
+            "port_id1": "{c73b5569-44ec-42b6-a3c4-5f1a0b5944a7}",
+            "port_id2": "{a7d1055f-4188-48d0-abf9-1e567641f074}"
+        },
+        {
+            "id1": "{adc487ed-fa33-4687-b06a-583776a9582a}",
+            "id2": "{9e8c23fa-5d61-49be-9409-02560c436c95}",
+            "port_id1": "{a360767a-92f4-4640-b9cf-6f1eaba89f79}",
+            "port_id2": "{d17b246f-f2cb-4800-aa44-30e9d25f95b2}"
+        },
+        {
+            "id1": "{b25d7463-615e-44f2-a121-ae6faa84eec9}",
+            "id2": "{10fbf9a6-a4ce-4d8e-8f30-ad12d2efad66}",
+            "port_id1": "{7e8e33a9-aa41-46aa-825c-d70f777c774a}",
+            "port_id2": "{56362f5e-c033-4928-9826-258cad0a691d}"
+        },
+        {
+            "id1": "{b25d7463-615e-44f2-a121-ae6faa84eec9}",
+            "id2": "{37260e2c-37a9-4051-bebb-d95e2b8ddafa}",
+            "port_id1": "{49ef4542-1bae-4489-b821-639de6f175ed}",
+            "port_id2": "{dc1c82b9-40e9-455c-8690-9ea0b7bb8068}"
+        },
+        {
+            "id1": "{b25d7463-615e-44f2-a121-ae6faa84eec9}",
+            "id2": "{49a98c1c-bde7-4018-b123-561bcfb6f1f3}",
+            "port_id1": "{697e8260-ada2-449a-9097-6dde07be18c5}",
+            "port_id2": "{96fd55f2-54f7-4084-aa46-0898c2b67ad4}"
+        },
+        {
+            "id1": "{4a5cd032-28c0-4c2f-b38c-564218459aef}",
+            "id2": "{b25d7463-615e-44f2-a121-ae6faa84eec9}",
+            "port_id1": "{110728ae-0f7b-4f48-86d6-d98209e1549f}",
+            "port_id2": "{ec069565-6713-41ca-9a6a-ada033d06f3c}"
+        },
+        {
+            "id1": "{4a5cd032-28c0-4c2f-b38c-564218459aef}",
+            "id2": "{3200c7a8-ecfc-4a97-b76d-86964086ae87}",
+            "port_id1": "{e71e2fff-9de0-48d5-a3fd-c87dbed07b1c}",
+            "port_id2": "{b7fc6953-7f71-4764-9c88-5194cd2701fc}"
+        },
+        {
+            "id1": "{19c4c706-9d88-4659-8ef3-bd427eb633ae}",
+            "id2": "{4a5cd032-28c0-4c2f-b38c-564218459aef}",
+            "port_id1": "{0dbf5524-f745-4dc6-995e-baaa725bd623}",
+            "port_id2": "{d0baea89-4b6e-4d46-8db9-7ead1dd725c6}"
+        },
+        {
+            "id1": "{0a6b4b5a-dc4c-4c40-a2dd-d1ef4ebdc031}",
+            "id2": "{fa8fe778-c6c9-4658-9b8f-864492d1ccdf}",
+            "port_id1": "{efd86b3f-7e15-4f17-88c5-d388af3b7f01}",
+            "port_id2": "{9ecba9c4-a226-408a-922c-451a5454241c}"
+        },
+        {
+            "id1": "{6406b7ce-efa7-4206-a73a-cff1235c6ecc}",
+            "id2": "{6a83646f-fa7f-46e7-a13c-d32b8602b8ea}",
+            "port_id1": "{d20c9209-35a9-4b54-904b-ddbd4bae2d53}",
+            "port_id2": "{c1a8069c-b991-4e7a-abba-34700a4a060a}"
+        },
+        {
+            "id1": "{6973b84a-088a-4e03-a691-f910e3637b35}",
+            "id2": "{338ff364-087a-471b-89fd-561f986609b7}",
+            "port_id1": "{e99378e0-d857-4175-b7bd-6146726b9ec5}",
+            "port_id2": "{7366c25c-1f88-4c3d-b364-714e6b162ae6}"
+        },
+        {
+            "id1": "{3a8222e6-5bc4-446b-b769-3ecd160d7156}",
+            "id2": "{6973b84a-088a-4e03-a691-f910e3637b35}",
+            "port_id1": "{40d8dbde-8d86-4f32-b168-433d8aa14a0b}",
+            "port_id2": "{1ad6033f-53b3-43d0-981d-515daa4110c7}"
+        },
+        {
+            "id1": "{2a3bb73c-fd56-4fd4-a8c5-b2dc947babe8}",
+            "id2": "{11046792-53fe-4fa5-bfc7-2bad50364e9b}",
+            "port_id1": "{90731408-dd05-4aa5-bec1-98038410e415}",
+            "port_id2": "{d5f0ed67-f161-4c80-af79-238b76cab8c8}"
+        },
+        {
+            "id1": "{6973b84a-088a-4e03-a691-f910e3637b35}",
+            "id2": "{11046792-53fe-4fa5-bfc7-2bad50364e9b}",
+            "port_id1": "{91213ca7-e024-4405-b8f9-b22f518a3368}",
+            "port_id2": "{d5f0ed67-f161-4c80-af79-238b76cab8c8}"
+        },
+        {
+            "id1": "{11046792-53fe-4fa5-bfc7-2bad50364e9b}",
+            "id2": "{338ff364-087a-471b-89fd-561f986609b7}",
+            "port_id1": "{d8852ebb-d370-4860-af8c-f4e7565c9f9e}",
+            "port_id2": "{7366c25c-1f88-4c3d-b364-714e6b162ae6}"
+        },
+        {
+            "id1": "{11046792-53fe-4fa5-bfc7-2bad50364e9b}",
+            "id2": "{883b622c-8512-4baf-955d-45676ebc1c44}",
+            "port_id1": "{22f764d0-940a-43a3-a663-d233b4e0556a}",
+            "port_id2": "{e5f95f18-669a-4047-9eb5-1793641537e2}"
+        },
+        {
+            "id1": "{11046792-53fe-4fa5-bfc7-2bad50364e9b}",
+            "id2": "{ae8f556e-a752-4144-9123-998e2e8f3ed8}",
+            "port_id1": "{6fb84a0a-7584-4499-9d37-7bf4eed5e70d}",
+            "port_id2": "{57980aed-0560-4284-9ed8-34bdd3cd750c}"
+        },
+        {
+            "id1": "{336766cb-4a46-4d37-877d-dab1dd87949f}",
+            "id2": "{338ff364-087a-471b-89fd-561f986609b7}",
+            "port_id1": "{134a571e-862a-4854-97b9-a14d3ed32e6d}",
+            "port_id2": "{7366c25c-1f88-4c3d-b364-714e6b162ae6}"
+        },
+        {
+            "id1": "{d3dfbfa8-f71b-402a-8d03-4bba64d6d00c}",
+            "id2": "{336766cb-4a46-4d37-877d-dab1dd87949f}",
+            "port_id1": "{583e3ab2-3da8-40ad-b763-9cae7eef224f}",
+            "port_id2": "{99f4067e-6948-4c78-ae4a-8fb8200cd09a}"
+        },
+        {
+            "id1": "{336766cb-4a46-4d37-877d-dab1dd87949f}",
+            "id2": "{883b622c-8512-4baf-955d-45676ebc1c44}",
+            "port_id1": "{44164060-6c87-458e-a0c6-e98582550bd0}",
+            "port_id2": "{e5f95f18-669a-4047-9eb5-1793641537e2}"
+        },
+        {
+            "id1": "{11046792-53fe-4fa5-bfc7-2bad50364e9b}",
+            "id2": "{336766cb-4a46-4d37-877d-dab1dd87949f}",
+            "port_id1": "{149da7b4-0f05-4161-b70f-9b5089637f66}",
+            "port_id2": "{99f4067e-6948-4c78-ae4a-8fb8200cd09a}"
+        },
+        {
+            "id1": "{336766cb-4a46-4d37-877d-dab1dd87949f}",
+            "id2": "{ae8f556e-a752-4144-9123-998e2e8f3ed8}",
+            "port_id1": "{575a1b9d-d973-420b-8d5b-90f5bda4e28c}",
+            "port_id2": "{57980aed-0560-4284-9ed8-34bdd3cd750c}"
+        },
+        {
+            "id1": "{336766cb-4a46-4d37-877d-dab1dd87949f}",
+            "id2": "{ecede14f-73c4-4866-a022-d36cfc1d5bd0}",
+            "port_id1": "{8062318d-99af-4cb9-9620-fc0abcdfb70e}",
+            "port_id2": "{c84aa91c-73b4-4ef4-b3e7-d00c869d6f6b}"
+        },
+        {
+            "id1": "{ecede14f-73c4-4866-a022-d36cfc1d5bd0}",
+            "id2": "{ae8f556e-a752-4144-9123-998e2e8f3ed8}",
+            "port_id1": "{1db94749-3245-406d-b2e6-b570a5966357}",
+            "port_id2": "{57980aed-0560-4284-9ed8-34bdd3cd750c}"
+        },
+        {
+            "id1": "{ecede14f-73c4-4866-a022-d36cfc1d5bd0}",
+            "id2": "{883b622c-8512-4baf-955d-45676ebc1c44}",
+            "port_id1": "{12ec2615-a5b8-4d52-a37b-ef7ddb6ba0ff}",
+            "port_id2": "{e5f95f18-669a-4047-9eb5-1793641537e2}"
+        },
+        {
+            "id1": "{ecede14f-73c4-4866-a022-d36cfc1d5bd0}",
+            "id2": "{338ff364-087a-471b-89fd-561f986609b7}",
+            "port_id1": "{347fce84-6061-4eba-9bed-3cc5fb2baed5}",
+            "port_id2": "{7366c25c-1f88-4c3d-b364-714e6b162ae6}"
+        },
+        {
+            "id1": "{d31d5764-44cf-445d-9389-4bdab03ce6e6}",
+            "id2": "{ecede14f-73c4-4866-a022-d36cfc1d5bd0}",
+            "port_id1": "{1062af4b-5d75-4751-9903-422b1e7af34c}",
+            "port_id2": "{c84aa91c-73b4-4ef4-b3e7-d00c869d6f6b}"
+        },
+        {
+            "id1": "{6973b84a-088a-4e03-a691-f910e3637b35}",
+            "id2": "{ae8f556e-a752-4144-9123-998e2e8f3ed8}",
+            "port_id1": "{7e363bdb-f5a7-4298-a74a-d68df2418f64}",
+            "port_id2": "{57980aed-0560-4284-9ed8-34bdd3cd750c}"
+        },
+        {
+            "id1": "{6973b84a-088a-4e03-a691-f910e3637b35}",
+            "id2": "{883b622c-8512-4baf-955d-45676ebc1c44}",
+            "port_id1": "{2b2bcd07-5cbc-480d-b079-8b88689fc0e2}",
+            "port_id2": "{e5f95f18-669a-4047-9eb5-1793641537e2}"
+        },
+        {
+            "id1": "{ecede14f-73c4-4866-a022-d36cfc1d5bd0}",
+            "id2": "{a32554ba-e2ff-4c39-b869-bf6b80c106d4}",
+            "port_id1": "{82864287-fb49-4c2e-b27d-6b2e3f0009f9}",
+            "port_id2": "{1d470db4-1aa5-4175-97c1-a3a7162a08f4}"
+        },
+        {
+            "id1": "{a32554ba-e2ff-4c39-b869-bf6b80c106d4}",
+            "id2": "{883b622c-8512-4baf-955d-45676ebc1c44}",
+            "port_id1": "{b77d8cae-09dd-469d-ba4f-c8ac5a8b7a76}",
+            "port_id2": "{e5f95f18-669a-4047-9eb5-1793641537e2}"
+        },
+        {
+            "id1": "{a32554ba-e2ff-4c39-b869-bf6b80c106d4}",
+            "id2": "{338ff364-087a-471b-89fd-561f986609b7}",
+            "port_id1": "{c48af6cf-a100-4f62-a93b-98f07df13117}",
+            "port_id2": "{7366c25c-1f88-4c3d-b364-714e6b162ae6}"
+        },
+        {
+            "id1": "{6d306c3e-2f99-4e59-8b85-3a0abe06ee91}",
+            "id2": "{a32554ba-e2ff-4c39-b869-bf6b80c106d4}",
+            "port_id1": "{87e03328-0469-485f-ac8d-6c0f7e6f8cb5}",
+            "port_id2": "{1d470db4-1aa5-4175-97c1-a3a7162a08f4}"
+        },
+        {
+            "id1": "{a32554ba-e2ff-4c39-b869-bf6b80c106d4}",
+            "id2": "{ae8f556e-a752-4144-9123-998e2e8f3ed8}",
+            "port_id1": "{ea0c9def-5592-4110-afbb-4fbfdb9b18fe}",
+            "port_id2": "{57980aed-0560-4284-9ed8-34bdd3cd750c}"
+        },
+        {
+            "id1": "{0a6b4b5a-dc4c-4c40-a2dd-d1ef4ebdc031}",
+            "id2": "{3dd688c0-0515-423d-ad0d-18180b30b9cd}",
+            "port_id1": "{6603c5d7-ed7e-4ece-891b-6667cdb00f74}",
+            "port_id2": "{a5c2a510-b4bc-45ba-8f7c-a0842da7eb6c}"
+        },
+        {
+            "id1": "{3dd688c0-0515-423d-ad0d-18180b30b9cd}",
+            "id2": "{89fc1695-455f-425c-868a-d03b43b9a97b}",
+            "port_id1": "{b67ae3db-c2bd-4c09-8d31-5db34b16279f}",
+            "port_id2": "{9af52bbb-81c4-4511-a269-20ccce5de8ae}"
+        },
+        {
+            "id1": "{fa8fe778-c6c9-4658-9b8f-864492d1ccdf}",
+            "id2": "{3dd688c0-0515-423d-ad0d-18180b30b9cd}",
+            "port_id1": "{c7e7a620-c599-4efa-9381-3c1a30d90f8e}",
+            "port_id2": "{a5c2a510-b4bc-45ba-8f7c-a0842da7eb6c}"
+        },
+        {
+            "id1": "{3dd688c0-0515-423d-ad0d-18180b30b9cd}",
+            "id2": "{86eaf9db-5d1a-44f7-82d0-b4787306c5fd}",
+            "port_id1": "{c95d2e9b-3a43-4cb3-befb-e5faaa24578f}",
+            "port_id2": "{9ee73471-2fd9-414a-8687-4631b40b1e6a}"
+        },
+        {
+            "id1": "{6406b7ce-efa7-4206-a73a-cff1235c6ecc}",
+            "id2": "{3dd688c0-0515-423d-ad0d-18180b30b9cd}",
+            "port_id1": "{986a87ef-7682-4813-b2c6-290cc1d2c59d}",
+            "port_id2": "{27e45ef8-1c82-4f57-a1da-b9067990b586}"
+        },
+        {
+            "id1": "{6a83646f-fa7f-46e7-a13c-d32b8602b8ea}",
+            "id2": "{3dd688c0-0515-423d-ad0d-18180b30b9cd}",
+            "port_id1": "{bc114ac7-83bb-4c68-ab1e-2911e8771c67}",
+            "port_id2": "{27e45ef8-1c82-4f57-a1da-b9067990b586}"
+        }
+    ],
+    "graphManagers": [
+        {
+            "collapsed": true,
+            "equivalentNode": {
+                "dataModel": {
+                    "inputPorts": [
+                        {
+                            "dataType": {
+                                "color": "#f5ca54",
+                                "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                                "name": "x"
+                            },
+                            "defaultData": {
+                                "dataType": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}"
+                            },
+                            "id": "{b67ae3db-c2bd-4c09-8d31-5db34b16279f}",
+                            "isLabelCustomized": false,
+                            "portLabel": "x",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#47AA84",
+                                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                                "name": "Scalar"
+                            },
+                            "defaultData": {
+                                "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                            },
+                            "id": "{c95d2e9b-3a43-4cb3-befb-e5faaa24578f}",
+                            "isLabelCustomized": false,
+                            "portLabel": "Separation",
+                            "requirement": 1
+                        }
+                    ],
+                    "outputPorts": [
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "id": "{a5c2a510-b4bc-45ba-8f7c-a0842da7eb6c}",
+                            "isLabelCustomized": false,
+                            "portLabel": "1"
+                        },
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "id": "{867cec3e-eb1f-4dbe-8bf0-6250668f3165}",
+                            "isLabelCustomized": false,
+                            "portLabel": "2"
+                        },
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "id": "{955cebc9-8767-4c07-ab57-3ec0b1c9ea88}",
+                            "isLabelCustomized": false,
+                            "portLabel": "3"
+                        },
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "id": "{0db235a8-1d8a-412b-8b2d-5689253be352}",
+                            "isLabelCustomized": false,
+                            "portLabel": "4"
+                        },
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "id": "{27e45ef8-1c82-4f57-a1da-b9067990b586}",
+                            "isLabelCustomized": false,
+                            "portLabel": "5"
+                        }
+                    ]
+                },
+                "graphManager": "{dc9df150-bc58-423e-8318-5c21d3908272}",
+                "id": "{3dd688c0-0515-423d-ad0d-18180b30b9cd}",
+                "title": ""
+            },
+            "id": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "inputBoundaryNodeIdsToPortIds": {
+                "{338ff364-087a-471b-89fd-561f986609b7}": "{b67ae3db-c2bd-4c09-8d31-5db34b16279f}",
+                "{ae8f556e-a752-4144-9123-998e2e8f3ed8}": "{c95d2e9b-3a43-4cb3-befb-e5faaa24578f}"
+            },
+            "label": "Number of Wells",
+            "outputBoundaryNodeIdsToPortIds": {
+                "{2a3bb73c-fd56-4fd4-a8c5-b2dc947babe8}": "{0db235a8-1d8a-412b-8b2d-5689253be352}",
+                "{3a8222e6-5bc4-446b-b769-3ecd160d7156}": "{27e45ef8-1c82-4f57-a1da-b9067990b586}",
+                "{6d306c3e-2f99-4e59-8b85-3a0abe06ee91}": "{a5c2a510-b4bc-45ba-8f7c-a0842da7eb6c}",
+                "{d31d5764-44cf-445d-9389-4bdab03ce6e6}": "{867cec3e-eb1f-4dbe-8bf0-6250668f3165}",
+                "{d3dfbfa8-f71b-402a-8d03-4bba64d6d00c}": "{955cebc9-8767-4c07-ab57-3ec0b1c9ea88}"
+            },
+            "parentId": "{dc9df150-bc58-423e-8318-5c21d3908272}",
+            "position": {
+                "x": 2441.0688316993496,
+                "y": -8.966557366964139
+            },
+            "size": {
+                "height": 1567.1820245726503,
+                "width": 868.5529642456332
+            }
+        },
+        {
+            "collapsed": true,
+            "equivalentNode": {
+                "dataModel": {
+                    "inputPorts": [
+                        {
+                            "dataType": {
+                                "color": "#f5ca54",
+                                "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                                "name": "x"
+                            },
+                            "defaultData": {
+                                "dataType": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}"
+                            },
+                            "id": "{c48af6cf-a100-4f62-a93b-98f07df13117}",
+                            "isLabelCustomized": false,
+                            "portLabel": "x",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#47AA84",
+                                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                                "name": "Scalar"
+                            },
+                            "defaultData": {
+                                "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                            },
+                            "id": "{ea0c9def-5592-4110-afbb-4fbfdb9b18fe}",
+                            "isLabelCustomized": false,
+                            "portLabel": "separation",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#47AA84",
+                                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                                "name": "Scalar"
+                            },
+                            "defaultData": {
+                                "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                            },
+                            "id": "{b77d8cae-09dd-469d-ba4f-c8ac5a8b7a76}",
+                            "isLabelCustomized": false,
+                            "portLabel": "depth",
+                            "requirement": 1
+                        }
+                    ],
+                    "outputPorts": [
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "id": "{1d470db4-1aa5-4175-97c1-a3a7162a08f4}",
+                            "isLabelCustomized": false,
+                            "portLabel": "V"
+                        }
+                    ]
+                },
+                "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+                "id": "{a32554ba-e2ff-4c39-b869-bf6b80c106d4}",
+                "title": ""
+            },
+            "id": "{ac930bd6-418e-472b-a65a-fba455fd99e8}",
+            "inputBoundaryNodeIdsToPortIds": {
+                "{936bf90b-f282-4956-9df9-45d29a53b21d}": "{c48af6cf-a100-4f62-a93b-98f07df13117}",
+                "{dd800278-8dbf-4b02-b4fc-b2e156873c5e}": "{b77d8cae-09dd-469d-ba4f-c8ac5a8b7a76}",
+                "{de99c1ff-03f4-43e9-8412-66c436eb1302}": "{ea0c9def-5592-4110-afbb-4fbfdb9b18fe}"
+            },
+            "label": "Well 1",
+            "outputBoundaryNodeIdsToPortIds": {
+                "{e696d098-f9e1-4744-b351-3968c6a7c300}": "{1d470db4-1aa5-4175-97c1-a3a7162a08f4}"
+            },
+            "parentId": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "position": {
+                "x": 302.7649269153151,
+                "y": 0.6961294934643547
+            },
+            "size": {
+                "height": 338.57204861111103,
+                "width": 587.0703125000002
+            }
+        },
+        {
+            "collapsed": true,
+            "equivalentNode": {
+                "dataModel": {
+                    "inputPorts": [
+                        {
+                            "dataType": {
+                                "color": "#f5ca54",
+                                "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                                "name": "x"
+                            },
+                            "defaultData": {
+                                "dataType": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}"
+                            },
+                            "id": "{347fce84-6061-4eba-9bed-3cc5fb2baed5}",
+                            "isLabelCustomized": false,
+                            "portLabel": "x",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "defaultData": {
+                                "dataType": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}"
+                            },
+                            "id": "{82864287-fb49-4c2e-b27d-6b2e3f0009f9}",
+                            "isLabelCustomized": false,
+                            "portLabel": "V",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#47AA84",
+                                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                                "name": "Scalar"
+                            },
+                            "defaultData": {
+                                "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                            },
+                            "id": "{1db94749-3245-406d-b2e6-b570a5966357}",
+                            "isLabelCustomized": false,
+                            "portLabel": "separation",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#47AA84",
+                                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                                "name": "Scalar"
+                            },
+                            "defaultData": {
+                                "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                            },
+                            "id": "{12ec2615-a5b8-4d52-a37b-ef7ddb6ba0ff}",
+                            "isLabelCustomized": false,
+                            "portLabel": "depth",
+                            "requirement": 1
+                        }
+                    ],
+                    "outputPorts": [
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "id": "{c84aa91c-73b4-4ef4-b3e7-d00c869d6f6b}",
+                            "isLabelCustomized": false,
+                            "portLabel": "V"
+                        }
+                    ]
+                },
+                "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+                "id": "{ecede14f-73c4-4866-a022-d36cfc1d5bd0}",
+                "title": ""
+            },
+            "id": "{93b87c10-294c-44a5-9df5-3200d245894e}",
+            "inputBoundaryNodeIdsToPortIds": {
+                "{09d7ac67-5b30-4662-b862-dc58dd1d9ab4}": "{82864287-fb49-4c2e-b27d-6b2e3f0009f9}",
+                "{0af2a6b2-2d55-44be-8ecd-d4dc136280f3}": "{1db94749-3245-406d-b2e6-b570a5966357}",
+                "{37aa956d-a413-440b-bb1f-9a99ba894657}": "{12ec2615-a5b8-4d52-a37b-ef7ddb6ba0ff}",
+                "{5abc3031-b0b0-4ab2-8629-449204b112e7}": "{347fce84-6061-4eba-9bed-3cc5fb2baed5}"
+            },
+            "label": "Well 1 + 2",
+            "outputBoundaryNodeIdsToPortIds": {
+                "{6ec8df59-6f7b-4e6b-b578-a3aced3c2e71}": "{c84aa91c-73b4-4ef4-b3e7-d00c869d6f6b}"
+            },
+            "parentId": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "position": {
+                "x": 306.26579497087107,
+                "y": 246.88015727124196
+            },
+            "size": {
+                "height": 483.7065972222223,
+                "width": 729.6527777777776
+            }
+        },
+        {
+            "collapsed": true,
+            "equivalentNode": {
+                "dataModel": {
+                    "inputPorts": [
+                        {
+                            "dataType": {
+                                "color": "#f5ca54",
+                                "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                                "name": "x"
+                            },
+                            "defaultData": {
+                                "dataType": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}"
+                            },
+                            "id": "{134a571e-862a-4854-97b9-a14d3ed32e6d}",
+                            "isLabelCustomized": false,
+                            "portLabel": "x",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "defaultData": {
+                                "dataType": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}"
+                            },
+                            "id": "{8062318d-99af-4cb9-9620-fc0abcdfb70e}",
+                            "isLabelCustomized": false,
+                            "portLabel": "V",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#47AA84",
+                                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                                "name": "Scalar"
+                            },
+                            "defaultData": {
+                                "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                            },
+                            "id": "{575a1b9d-d973-420b-8d5b-90f5bda4e28c}",
+                            "isLabelCustomized": false,
+                            "portLabel": "separation",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#47AA84",
+                                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                                "name": "Scalar"
+                            },
+                            "defaultData": {
+                                "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                            },
+                            "id": "{44164060-6c87-458e-a0c6-e98582550bd0}",
+                            "isLabelCustomized": false,
+                            "portLabel": "depth",
+                            "requirement": 1
+                        }
+                    ],
+                    "outputPorts": [
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "id": "{99f4067e-6948-4c78-ae4a-8fb8200cd09a}",
+                            "isLabelCustomized": false,
+                            "portLabel": "V"
+                        }
+                    ]
+                },
+                "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+                "id": "{336766cb-4a46-4d37-877d-dab1dd87949f}",
+                "title": ""
+            },
+            "id": "{1c59ebc5-e120-4ee5-b03b-6b3bbe15ae49}",
+            "inputBoundaryNodeIdsToPortIds": {
+                "{3c020426-cd84-4d25-8288-c40a6b397c23}": "{575a1b9d-d973-420b-8d5b-90f5bda4e28c}",
+                "{706d6209-caf5-42ef-9c86-1b03620d0857}": "{134a571e-862a-4854-97b9-a14d3ed32e6d}",
+                "{ac672c83-b7f1-421e-bdd4-8bc1844b020c}": "{44164060-6c87-458e-a0c6-e98582550bd0}",
+                "{fdbe4b2c-1ad2-4904-9d23-14a06ccf11f1}": "{8062318d-99af-4cb9-9620-fc0abcdfb70e}"
+            },
+            "label": "Well 1 + 2 + 3",
+            "outputBoundaryNodeIdsToPortIds": {
+                "{ca70d34e-950e-4c19-9d61-a9bc2c9d3558}": "{99f4067e-6948-4c78-ae4a-8fb8200cd09a}"
+            },
+            "parentId": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "position": {
+                "x": 311.8910384977685,
+                "y": 546.5155739379085
+            },
+            "size": {
+                "height": 306.34114583333326,
+                "width": 776.7578124999999
+            }
+        },
+        {
+            "collapsed": true,
+            "equivalentNode": {
+                "dataModel": {
+                    "inputPorts": [
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "defaultData": {
+                                "dataType": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}"
+                            },
+                            "id": "{149da7b4-0f05-4161-b70f-9b5089637f66}",
+                            "isLabelCustomized": false,
+                            "portLabel": "V",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#f5ca54",
+                                "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                                "name": "x"
+                            },
+                            "defaultData": {
+                                "dataType": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}"
+                            },
+                            "id": "{d8852ebb-d370-4860-af8c-f4e7565c9f9e}",
+                            "isLabelCustomized": false,
+                            "portLabel": "x",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#47AA84",
+                                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                                "name": "Scalar"
+                            },
+                            "defaultData": {
+                                "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                            },
+                            "id": "{6fb84a0a-7584-4499-9d37-7bf4eed5e70d}",
+                            "isLabelCustomized": false,
+                            "portLabel": "separation",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#47AA84",
+                                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                                "name": "Scalar"
+                            },
+                            "defaultData": {
+                                "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                            },
+                            "id": "{22f764d0-940a-43a3-a663-d233b4e0556a}",
+                            "isLabelCustomized": false,
+                            "portLabel": "depth",
+                            "requirement": 1
+                        }
+                    ],
+                    "outputPorts": [
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "id": "{d5f0ed67-f161-4c80-af79-238b76cab8c8}",
+                            "isLabelCustomized": false,
+                            "portLabel": "V"
+                        }
+                    ]
+                },
+                "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+                "id": "{11046792-53fe-4fa5-bfc7-2bad50364e9b}",
+                "title": ""
+            },
+            "id": "{59410667-9369-4700-9612-ecf62a76535e}",
+            "inputBoundaryNodeIdsToPortIds": {
+                "{1c9d4c32-d81b-4ed3-99fa-dd646f203260}": "{d8852ebb-d370-4860-af8c-f4e7565c9f9e}",
+                "{80050d99-584b-4bab-93e3-f64e125b877e}": "{22f764d0-940a-43a3-a663-d233b4e0556a}",
+                "{89ebbdc2-8493-4450-8768-86fd499010d6}": "{149da7b4-0f05-4161-b70f-9b5089637f66}",
+                "{f6f57014-e9c5-4117-a969-30c815214346}": "{6fb84a0a-7584-4499-9d37-7bf4eed5e70d}"
+            },
+            "label": "Well 1 + 2 + 3 + 4",
+            "outputBoundaryNodeIdsToPortIds": {
+                "{adc487ed-fa33-4687-b06a-583776a9582a}": "{d5f0ed67-f161-4c80-af79-238b76cab8c8}"
+            },
+            "parentId": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "position": {
+                "x": 314.54166666666583,
+                "y": 842.0103807351284
+            },
+            "size": {
+                "height": 402.64062500000017,
+                "width": 712.2708333333331
+            }
+        },
+        {
+            "collapsed": true,
+            "equivalentNode": {
+                "dataModel": {
+                    "inputPorts": [
+                        {
+                            "dataType": {
+                                "color": "#f5ca54",
+                                "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                                "name": "x"
+                            },
+                            "defaultData": {
+                                "dataType": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}"
+                            },
+                            "id": "{e99378e0-d857-4175-b7bd-6146726b9ec5}",
+                            "isLabelCustomized": false,
+                            "portLabel": "x",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#47AA84",
+                                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                                "name": "Scalar"
+                            },
+                            "defaultData": {
+                                "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                            },
+                            "id": "{7e363bdb-f5a7-4298-a74a-d68df2418f64}",
+                            "isLabelCustomized": false,
+                            "portLabel": "separation",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#47AA84",
+                                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                                "name": "Scalar"
+                            },
+                            "defaultData": {
+                                "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                            },
+                            "id": "{2b2bcd07-5cbc-480d-b079-8b88689fc0e2}",
+                            "isLabelCustomized": false,
+                            "portLabel": "depth",
+                            "requirement": 1
+                        },
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "defaultData": {
+                                "dataType": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}"
+                            },
+                            "id": "{91213ca7-e024-4405-b8f9-b22f518a3368}",
+                            "isLabelCustomized": false,
+                            "portLabel": "V",
+                            "requirement": 1
+                        }
+                    ],
+                    "outputPorts": [
+                        {
+                            "dataType": {
+                                "color": "#5589EA",
+                                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                                "name": "V"
+                            },
+                            "id": "{1ad6033f-53b3-43d0-981d-515daa4110c7}",
+                            "isLabelCustomized": false,
+                            "portLabel": "V"
+                        }
+                    ]
+                },
+                "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+                "id": "{6973b84a-088a-4e03-a691-f910e3637b35}",
+                "title": ""
+            },
+            "id": "{33b9cee5-2445-453c-b9b8-ff3e5c3f3726}",
+            "inputBoundaryNodeIdsToPortIds": {
+                "{10fbf9a6-a4ce-4d8e-8f30-ad12d2efad66}": "{e99378e0-d857-4175-b7bd-6146726b9ec5}",
+                "{3200c7a8-ecfc-4a97-b76d-86964086ae87}": "{91213ca7-e024-4405-b8f9-b22f518a3368}",
+                "{37260e2c-37a9-4051-bebb-d95e2b8ddafa}": "{7e363bdb-f5a7-4298-a74a-d68df2418f64}",
+                "{49a98c1c-bde7-4018-b123-561bcfb6f1f3}": "{2b2bcd07-5cbc-480d-b079-8b88689fc0e2}"
+            },
+            "label": "Well 1 + 2 + 3 + 4 +5 ",
+            "outputBoundaryNodeIdsToPortIds": {
+                "{19c4c706-9d88-4659-8ef3-bd427eb633ae}": "{1ad6033f-53b3-43d0-981d-515daa4110c7}"
+            },
+            "parentId": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "position": {
+                "x": 308.39518229166526,
+                "y": 1193.4569953184612
+            },
+            "size": {
+                "height": 516.9424771708551,
+                "width": 635.1154642456326
+            }
+        }
+    ],
+    "metaData": {
+        "flowFormatVersion": 1
+    },
+    "nodes": [
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{938b7204-4853-4360-a099-2b776f408260}",
+                        "isLabelCustomized": false,
+                        "portLabel": "xMin",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{4ed3bdb7-cd4b-4cc6-bdc0-33a273f00714}",
+                        "isLabelCustomized": false,
+                        "portLabel": "xMax",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#ffbaba",
+                            "id": "{ea0d7eef-5aaf-4f02-bc03-6ed95608c1ff}",
+                            "name": "Integer"
+                        },
+                        "id": "{528f59ed-b8bd-4997-9ee1-3535cbcdd079}",
+                        "isLabelCustomized": false,
+                        "portLabel": "nPoints",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{9af52bbb-81c4-4511-a269-20ccce5de8ae}",
+                        "isLabelCustomized": false,
+                        "portLabel": "x"
+                    }
+                ]
+            },
+            "graphManager": "{dc9df150-bc58-423e-8318-5c21d3908272}",
+            "id": "{89fc1695-455f-425c-868a-d03b43b9a97b}",
+            "position": {
+                "x": 2130.6783216783233,
+                "y": -59.545454545454646
+            },
+            "title": "",
+            "view": {
+                "nPoints": "1024",
+                "name": "{129e9e08-1af6-4751-8cf2-eae190650ff0}",
+                "xMax": "16",
+                "xMin": "-2"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "defaultData": {
+                            "dataType": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}"
+                        },
+                        "id": "{6603c5d7-ed7e-4ece-891b-6667cdb00f74}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#1F75A2",
+                            "id": "{7301db27-e2ba-4382-82ce-a190a1a138e7}",
+                            "name": "H"
+                        },
+                        "defaultData": {
+                            "dataType": "{7301db27-e2ba-4382-82ce-a190a1a138e7}"
+                        },
+                        "id": "{efd86b3f-7e15-4f17-88c5-d388af3b7f01}",
+                        "isLabelCustomized": false,
+                        "portLabel": "H",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#87C3C4",
+                            "id": "{b8b04970-673a-4be0-a517-45b11f54c4a6}",
+                            "name": "ψ"
+                        },
+                        "defaultData": {
+                            "dataType": "{b8b04970-673a-4be0-a517-45b11f54c4a6}"
+                        },
+                        "id": "{288ca797-8d4b-4790-a028-f708a1adfe05}",
+                        "isLabelCustomized": false,
+                        "portLabel": "ψ",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#ffbaba",
+                            "id": "{ea0d7eef-5aaf-4f02-bc03-6ed95608c1ff}",
+                            "name": "Integer"
+                        },
+                        "id": "{a66d3fd2-04c8-4990-b122-33ce59fe9d8f}",
+                        "isLabelCustomized": false,
+                        "portLabel": "n",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{f9ec841e-0564-4503-aff2-aeef94a6a001}",
+                            "name": "Vector"
+                        },
+                        "id": "{36106101-eea8-44d5-8f3c-8395a08e7b87}",
+                        "isLabelCustomized": false,
+                        "portLabel": "x"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#00ff00",
+                            "id": "{e6abc157-e286-48d8-a664-040ed2118407}",
+                            "name": "Graph"
+                        },
+                        "id": "{ce6e148a-ed06-46f7-887c-43862b323111}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V graph"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#00ff00",
+                            "id": "{e6abc157-e286-48d8-a664-040ed2118407}",
+                            "name": "Graph"
+                        },
+                        "id": "{2e841e0d-2ae6-49fd-a574-82ccab41616e}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Psi squared graph"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#00ff00",
+                            "id": "{e6abc157-e286-48d8-a664-040ed2118407}",
+                            "name": "Graph"
+                        },
+                        "id": "{396529b2-c11e-4312-b107-b192d8611ab8}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Real Psi graph"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#00ff00",
+                            "id": "{e6abc157-e286-48d8-a664-040ed2118407}",
+                            "name": "Graph"
+                        },
+                        "id": "{d36076af-ef05-40a6-9034-620ae32fd77a}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Im Psi graph"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{749a3a8f-047b-442d-81b5-dc1342b80f2f}",
+                        "isLabelCustomized": false,
+                        "portLabel": "H Expectation value"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{1d70e862-4a3d-45a0-a57a-c3c78d5d2a65}",
+                        "isLabelCustomized": false,
+                        "portLabel": "H Standard deviation"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{f9ec841e-0564-4503-aff2-aeef94a6a001}",
+                            "name": "Vector"
+                        },
+                        "id": "{53f72e26-032d-4f1d-abe1-ba40f2aee06e}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Energy levels"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#0089EA",
+                            "id": "{c0e658d8-b9b7-43e0-90eb-ddb87c6c7522}",
+                            "name": "Graph List"
+                        },
+                        "id": "{6defba33-82bd-4011-a32a-8e119480d44d}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Psin"
+                    }
+                ]
+            },
+            "graphManager": "{dc9df150-bc58-423e-8318-5c21d3908272}",
+            "id": "{0a6b4b5a-dc4c-4c40-a2dd-d1ef4ebdc031}",
+            "position": {
+                "x": 3043.452671954846,
+                "y": -241.11322540741597
+            },
+            "title": "",
+            "view": {
+                "n": "20",
+                "name": "{b42e12b4-8717-4629-952b-6e6e60cfa816}",
+                "plotAbs": false,
+                "plotEn": true,
+                "plotExpect": false,
+                "plotImag": false,
+                "plotPsin": true,
+                "plotReal": false,
+                "plotV": true,
+                "ymax": "10",
+                "ymin": "-12"
+            }
+        },
+        {
+            "attachedPortId": "{b67ae3db-c2bd-4c09-8d31-5db34b16279f}",
+            "boundaryDataType": {
+                "color": "#f5ca54",
+                "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                "name": "x"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{adf4a329-71b7-4676-8225-e64b1803803a}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{7366c25c-1f88-4c3d-b364-714e6b162ae6}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "id": "{338ff364-087a-471b-89fd-561f986609b7}",
+            "position": {
+                "y": 30.000000000000007
+            },
+            "title": "x",
+            "view": {
+                "label": "x",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{af2fce31-0013-4e1f-a37f-fbdfb183dd6b}",
+                        "isLabelCustomized": false,
+                        "portLabel": "x",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{13dd0028-70e9-4309-bcf7-1b9a3a9d19d7}",
+                        "isLabelCustomized": false,
+                        "portLabel": "a",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{1e7a4771-67fe-4063-8b7c-8c31fb0a49cb}",
+                        "isLabelCustomized": false,
+                        "portLabel": "b",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#000000",
+                            "id": "{16b1f5fc-65da-44ad-b551-790a5e49c93a}",
+                            "name": "Text"
+                        },
+                        "id": "{31b8a479-0659-4071-92d2-9128acf0ff32}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Expression",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{41caf461-fffa-4323-a3cf-8c7c5840d3f4}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V"
+                    }
+                ]
+            },
+            "graphManager": "{ac930bd6-418e-472b-a65a-fba455fd99e8}",
+            "id": "{d4111ac0-2f37-4ef6-a672-dbf1c5a04fa7}",
+            "position": {
+                "x": 266.72743055555463,
+                "y": 81.42795138888877
+            },
+            "title": "",
+            "view": {
+                "name": "{8fa89261-cde7-430c-9451-91121fcc9cc0}",
+                "text": "b*well(0,2)"
+            }
+        },
+        {
+            "attachedPortId": "{c48af6cf-a100-4f62-a93b-98f07df13117}",
+            "boundaryDataType": {
+                "color": "#f5ca54",
+                "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                "name": "x"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{2f6931c7-0325-4f38-a0e5-2f1c48084e2f}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{639e8ef8-e462-41c7-ba56-23a798fc4287}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{ac930bd6-418e-472b-a65a-fba455fd99e8}",
+            "id": "{936bf90b-f282-4956-9df9-45d29a53b21d}",
+            "position": {
+                "y": 51.65624999999996
+            },
+            "title": "x",
+            "view": {
+                "label": "x",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{ea0c9def-5592-4110-afbb-4fbfdb9b18fe}",
+            "boundaryDataType": {
+                "color": "#47AA84",
+                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                "name": "Scalar"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{2b44ab38-43c4-4c6d-8fac-124453774311}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{547f73db-dbda-4881-ad52-c9270d757bec}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{ac930bd6-418e-472b-a65a-fba455fd99e8}",
+            "id": "{de99c1ff-03f4-43e9-8412-66c436eb1302}",
+            "position": {
+                "y": 122.81076388888883
+            },
+            "title": "separation",
+            "view": {
+                "label": "separation",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{b77d8cae-09dd-469d-ba4f-c8ac5a8b7a76}",
+            "boundaryDataType": {
+                "color": "#47AA84",
+                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                "name": "Scalar"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{f795bb6d-599a-4003-aacc-e21711d424d9}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{4370863d-e570-4bbb-8fdf-0db3b8322504}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{ac930bd6-418e-472b-a65a-fba455fd99e8}",
+            "id": "{dd800278-8dbf-4b02-b4fc-b2e156873c5e}",
+            "position": {
+                "y": 196.95138888888889
+            },
+            "title": "depth",
+            "view": {
+                "label": "depth",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{1d470db4-1aa5-4175-97c1-a3a7162a08f4}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 1,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{844a92b6-495d-4ff9-9717-5f19519c0851}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{26bc513c-dc62-4b04-b061-ee994ba2da77}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{ac930bd6-418e-472b-a65a-fba455fd99e8}",
+            "id": "{e696d098-f9e1-4744-b351-3968c6a7c300}",
+            "position": {
+                "y": 122.84027777777771
+            },
+            "title": "V",
+            "view": {
+                "label": "V",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{1db94749-3245-406d-b2e6-b570a5966357}",
+            "boundaryDataType": {
+                "color": "#47AA84",
+                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                "name": "Scalar"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{c5be6e55-e139-413a-a691-508315431118}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{1125cd12-ae52-4bab-bb1b-753a9c6469b4}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{93b87c10-294c-44a5-9df5-3200d245894e}",
+            "id": "{0af2a6b2-2d55-44be-8ecd-d4dc136280f3}",
+            "position": {
+                "y": 175.42534722222223
+            },
+            "title": "separation",
+            "view": {
+                "label": "separation",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{12ec2615-a5b8-4d52-a37b-ef7ddb6ba0ff}",
+            "boundaryDataType": {
+                "color": "#47AA84",
+                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                "name": "Scalar"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{ab4e90e4-174c-41da-8a60-448e903c13ac}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{c38593ba-3cb2-4da8-b384-c50f84dbec2d}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{93b87c10-294c-44a5-9df5-3200d245894e}",
+            "id": "{37aa956d-a413-440b-bb1f-9a99ba894657}",
+            "position": {
+                "y": 278.7526041666667
+            },
+            "title": "depth",
+            "view": {
+                "label": "depth",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{29730c13-af90-48c3-a260-b6301a452c1f}",
+                        "isLabelCustomized": false,
+                        "portLabel": "x",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{967de316-3204-4104-a07d-f4d24aed37f5}",
+                        "isLabelCustomized": false,
+                        "portLabel": "a",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{a2cdbdfa-7e95-43ce-9f03-c8cb85226b13}",
+                        "isLabelCustomized": false,
+                        "portLabel": "b",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#000000",
+                            "id": "{16b1f5fc-65da-44ad-b551-790a5e49c93a}",
+                            "name": "Text"
+                        },
+                        "id": "{bf1dff2a-1612-4a0e-8ed2-042929100505}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Expression",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{ca8aa18b-4605-46b2-9749-6ee5ec45cf80}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V"
+                    }
+                ]
+            },
+            "graphManager": "{93b87c10-294c-44a5-9df5-3200d245894e}",
+            "id": "{6bcaf82f-892e-432c-b69b-29fd4e910c02}",
+            "position": {
+                "x": 113.46354166666467,
+                "y": 130.58072916666663
+            },
+            "title": "",
+            "view": {
+                "name": "{8fa89261-cde7-430c-9451-91121fcc9cc0}",
+                "text": "b*well(a+2,a+4)"
+            }
+        },
+        {
+            "attachedPortId": "{347fce84-6061-4eba-9bed-3cc5fb2baed5}",
+            "boundaryDataType": {
+                "color": "#f5ca54",
+                "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                "name": "x"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{f11ed717-819d-4391-b26a-b13bfdb511dd}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{d7ddacca-08e6-495f-9d35-cee7a3278003}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{93b87c10-294c-44a5-9df5-3200d245894e}",
+            "id": "{5abc3031-b0b0-4ab2-8629-449204b112e7}",
+            "position": {
+                "y": 30
+            },
+            "title": "x",
+            "view": {
+                "label": "x",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{82864287-fb49-4c2e-b27d-6b2e3f0009f9}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{ec47de8c-d8c5-4e9b-b448-74b381af44d1}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{34507eef-90bf-4a51-af39-330c9ecd33a9}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{93b87c10-294c-44a5-9df5-3200d245894e}",
+            "id": "{09d7ac67-5b30-4662-b862-dc58dd1d9ab4}",
+            "position": {
+                "y": 102.23524305555554
+            },
+            "title": "V",
+            "view": {
+                "label": "V",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{c84aa91c-73b4-4ef4-b3e7-d00c869d6f6b}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 1,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{e8ba052b-b99f-43f6-8b69-84ef209cc685}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{669abf2e-b06e-44fc-b7cf-458fde268452}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{93b87c10-294c-44a5-9df5-3200d245894e}",
+            "id": "{6ec8df59-6f7b-4e6b-b578-a3aced3c2e71}",
+            "position": {
+                "y": 284.15625
+            },
+            "title": "V",
+            "view": {
+                "label": "V",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{521da275-0ddb-4545-bf2a-2d2191361203}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V<sub>1</sub",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{6d42b087-1c29-44d8-9408-72b658ad7ed4}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V<sub>2</sub",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{139a5adc-d579-4f37-965c-85489988a483}",
+                        "isLabelCustomized": false,
+                        "portLabel": "a",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{bb5396d0-8d59-4216-a022-0c32344e51ee}",
+                        "isLabelCustomized": false,
+                        "portLabel": "b",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#000000",
+                            "id": "{16b1f5fc-65da-44ad-b551-790a5e49c93a}",
+                            "name": "Text"
+                        },
+                        "id": "{5a1323db-53f9-47b7-b02b-481d87f6d9c5}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Expression",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{c405e257-80e3-49be-90b1-98af88bca9aa}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V"
+                    }
+                ]
+            },
+            "graphManager": "{93b87c10-294c-44a5-9df5-3200d245894e}",
+            "id": "{5ef2a589-2a7c-4789-9673-300572ea8974}",
+            "position": {
+                "x": 405.8203125,
+                "y": 132.26649305555543
+            },
+            "title": "",
+            "view": {
+                "name": "{77e4d733-b7b3-46fe-a3c7-6f6f39d7bd8b}",
+                "text": "V1+V2"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{129b06bd-01bc-4db2-aee2-ae5f15c06d9b}",
+                        "isLabelCustomized": false,
+                        "portLabel": "x",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{855073f6-438a-4afe-bb98-c6a828b69f0f}",
+                        "isLabelCustomized": false,
+                        "portLabel": "a",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{1a7d78e9-4093-4f4c-a662-d3769ef3e844}",
+                        "isLabelCustomized": false,
+                        "portLabel": "b",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#000000",
+                            "id": "{16b1f5fc-65da-44ad-b551-790a5e49c93a}",
+                            "name": "Text"
+                        },
+                        "id": "{f3195298-813f-4432-b236-1d4617bc403e}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Expression",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{e37a306e-bf13-40a6-80d2-a55ec59abe37}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V"
+                    }
+                ]
+            },
+            "graphManager": "{1c59ebc5-e120-4ee5-b03b-6b3bbe15ae49}",
+            "id": "{fc38a2be-d152-457e-98c2-01417f90693c}",
+            "position": {
+                "x": 174.5920138888879,
+                "y": 23.346354166666742
+            },
+            "title": "",
+            "view": {
+                "name": "{8fa89261-cde7-430c-9451-91121fcc9cc0}",
+                "text": "b*well(4+2*a,6+2*a)"
+            }
+        },
+        {
+            "attachedPortId": "{134a571e-862a-4854-97b9-a14d3ed32e6d}",
+            "boundaryDataType": {
+                "color": "#f5ca54",
+                "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                "name": "x"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{64201f36-6487-4a51-b2a3-1bc1db918558}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{4edc849c-f6b3-4a47-b3ab-0af1d6b4b015}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{1c59ebc5-e120-4ee5-b03b-6b3bbe15ae49}",
+            "id": "{706d6209-caf5-42ef-9c86-1b03620d0857}",
+            "position": {
+                "y": 44.55555555555554
+            },
+            "title": "x",
+            "view": {
+                "label": "x",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{575a1b9d-d973-420b-8d5b-90f5bda4e28c}",
+            "boundaryDataType": {
+                "color": "#47AA84",
+                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                "name": "Scalar"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{d737610e-e9b6-4432-a772-77db7b629414}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{573f163c-c94d-4b02-a6c0-7b9f9d588361}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{1c59ebc5-e120-4ee5-b03b-6b3bbe15ae49}",
+            "id": "{3c020426-cd84-4d25-8288-c40a6b397c23}",
+            "position": {
+                "y": 113.62239583333337
+            },
+            "title": "separation",
+            "view": {
+                "label": "separation",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{44164060-6c87-458e-a0c6-e98582550bd0}",
+            "boundaryDataType": {
+                "color": "#47AA84",
+                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                "name": "Scalar"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{c91680ad-5d32-4f2f-89ce-51fdb3bd099e}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{5b6c811f-7460-45f7-b8c3-30d73f23acd9}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{1c59ebc5-e120-4ee5-b03b-6b3bbe15ae49}",
+            "id": "{ac672c83-b7f1-421e-bdd4-8bc1844b020c}",
+            "position": {
+                "y": 160.18055555555554
+            },
+            "title": "depth",
+            "view": {
+                "label": "depth",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{513c2832-065d-4ca7-9bcb-018a503d5bdb}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V<sub>1</sub",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{7958c6a3-6ac5-49f1-a7e5-f1dc16cd876f}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V<sub>2</sub",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{7da497b3-31e2-419d-88f9-805dbfc037a9}",
+                        "isLabelCustomized": false,
+                        "portLabel": "a",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{49a50080-e08b-4b90-a121-de3607a3ab52}",
+                        "isLabelCustomized": false,
+                        "portLabel": "b",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#000000",
+                            "id": "{16b1f5fc-65da-44ad-b551-790a5e49c93a}",
+                            "name": "Text"
+                        },
+                        "id": "{ab9f0043-de06-4bce-92de-3852a6316c2b}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Expression",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{b0090f2c-e9d9-47c1-a918-40d2319b1142}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V"
+                    }
+                ]
+            },
+            "graphManager": "{1c59ebc5-e120-4ee5-b03b-6b3bbe15ae49}",
+            "id": "{04ba46ca-7626-44ef-adbd-9c9293600edc}",
+            "position": {
+                "x": 462.21788194444395,
+                "y": 6.841145833333371
+            },
+            "title": "",
+            "view": {
+                "name": "{77e4d733-b7b3-46fe-a3c7-6f6f39d7bd8b}",
+                "text": "V1+V2"
+            }
+        },
+        {
+            "attachedPortId": "{8062318d-99af-4cb9-9620-fc0abcdfb70e}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{b233ce1a-f50a-4c65-96ce-7739764f1499}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{ebf6e50f-2f3d-486c-b57e-90f42959affb}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{1c59ebc5-e120-4ee5-b03b-6b3bbe15ae49}",
+            "id": "{fdbe4b2c-1ad2-4904-9d23-14a06ccf11f1}",
+            "position": {
+                "y": 59.4296875
+            },
+            "title": "V",
+            "view": {
+                "label": "V",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{99f4067e-6948-4c78-ae4a-8fb8200cd09a}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 1,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{c422fd65-ea1e-4b97-bbc4-3c5e7042a32c}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{0a8fc197-6090-468a-b287-498dbfc9fcc1}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{1c59ebc5-e120-4ee5-b03b-6b3bbe15ae49}",
+            "id": "{ca70d34e-950e-4c19-9d61-a9bc2c9d3558}",
+            "position": {
+                "y": 88.87413194444457
+            },
+            "title": "V",
+            "view": {
+                "label": "V",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{9807f221-60ce-462b-966c-0fb8c4dc1fe9}",
+                        "isLabelCustomized": false,
+                        "portLabel": "x",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{334eb2f0-66b3-40e4-a523-3935aa59e37c}",
+                        "isLabelCustomized": false,
+                        "portLabel": "a",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{78b4bc45-d405-4324-86f5-b30ed9779956}",
+                        "isLabelCustomized": false,
+                        "portLabel": "b",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#000000",
+                            "id": "{16b1f5fc-65da-44ad-b551-790a5e49c93a}",
+                            "name": "Text"
+                        },
+                        "id": "{212caffd-34b4-409e-9d4d-29da5da839a0}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Expression",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{a7d1055f-4188-48d0-abf9-1e567641f074}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V"
+                    }
+                ]
+            },
+            "graphManager": "{59410667-9369-4700-9612-ecf62a76535e}",
+            "id": "{2b3b1554-0c31-4878-bf48-f928557e41d6}",
+            "position": {
+                "x": 102.58333333333348,
+                "y": 71.92187499999977
+            },
+            "title": "",
+            "view": {
+                "name": "{8fa89261-cde7-430c-9451-91121fcc9cc0}",
+                "text": "b*well(6+3*a,8+3*a)"
+            }
+        },
+        {
+            "attachedPortId": "{d8852ebb-d370-4860-af8c-f4e7565c9f9e}",
+            "boundaryDataType": {
+                "color": "#f5ca54",
+                "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                "name": "x"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{f72e3f0a-17e2-4268-b128-79781f15fff3}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{f2b69c26-48b8-4e07-93e4-306111dbca4b}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{59410667-9369-4700-9612-ecf62a76535e}",
+            "id": "{1c9d4c32-d81b-4ed3-99fa-dd646f203260}",
+            "position": {
+                "y": 30
+            },
+            "title": "x",
+            "view": {
+                "label": "x",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{6fb84a0a-7584-4499-9d37-7bf4eed5e70d}",
+            "boundaryDataType": {
+                "color": "#47AA84",
+                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                "name": "Scalar"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{148aa858-cb03-46a9-9e8a-ef7201f602e8}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{cb764cd1-d14c-43be-8bbe-a90025c50766}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{59410667-9369-4700-9612-ecf62a76535e}",
+            "id": "{f6f57014-e9c5-4117-a969-30c815214346}",
+            "position": {
+                "y": 140.07291666666674
+            },
+            "title": "separation",
+            "view": {
+                "label": "separation",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{22f764d0-940a-43a3-a663-d233b4e0556a}",
+            "boundaryDataType": {
+                "color": "#47AA84",
+                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                "name": "Scalar"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{2720c863-663e-4277-8526-f5cf6888390b}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{99325174-6857-4a7a-8419-e3e661be4cdf}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{59410667-9369-4700-9612-ecf62a76535e}",
+            "id": "{80050d99-584b-4bab-93e3-f64e125b877e}",
+            "position": {
+                "y": 232.875
+            },
+            "title": "depth",
+            "view": {
+                "label": "depth",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{af10bfc0-c4f7-4ba9-a1f0-09b6e2212dc0}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V<sub>1</sub",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{c73b5569-44ec-42b6-a3c4-5f1a0b5944a7}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V<sub>2</sub",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{744be441-dd9c-41fb-b0b0-6f338be30995}",
+                        "isLabelCustomized": false,
+                        "portLabel": "a",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{58908eb0-394b-4605-b7d3-eddf16bf4a2d}",
+                        "isLabelCustomized": false,
+                        "portLabel": "b",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#000000",
+                            "id": "{16b1f5fc-65da-44ad-b551-790a5e49c93a}",
+                            "name": "Text"
+                        },
+                        "id": "{455b151e-0ead-4ee1-9f74-76cde8fb1b0a}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Expression",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{d17b246f-f2cb-4800-aa44-30e9d25f95b2}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V"
+                    }
+                ]
+            },
+            "graphManager": "{59410667-9369-4700-9612-ecf62a76535e}",
+            "id": "{9e8c23fa-5d61-49be-9409-02560c436c95}",
+            "position": {
+                "x": 395.61458333333377,
+                "y": 77.08854166666663
+            },
+            "title": "",
+            "view": {
+                "name": "{77e4d733-b7b3-46fe-a3c7-6f6f39d7bd8b}",
+                "text": "V1+V2"
+            }
+        },
+        {
+            "attachedPortId": "{149da7b4-0f05-4161-b70f-9b5089637f66}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{dad8d83b-abaf-4081-a892-e5b1d8e63afc}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{81ed5c15-1dbe-4351-9675-22b20bd71114}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{59410667-9369-4700-9612-ecf62a76535e}",
+            "id": "{89ebbdc2-8493-4450-8768-86fd499010d6}",
+            "position": {
+                "y": 30
+            },
+            "title": "V",
+            "view": {
+                "label": "V",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{d5f0ed67-f161-4c80-af79-238b76cab8c8}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 1,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{a360767a-92f4-4640-b9cf-6f1eaba89f79}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{9308484f-233d-42a1-922f-5993f13c314d}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{59410667-9369-4700-9612-ecf62a76535e}",
+            "id": "{adc487ed-fa33-4687-b06a-583776a9582a}",
+            "position": {
+                "y": 124.91666666666674
+            },
+            "title": "V",
+            "view": {
+                "label": "V",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{e99378e0-d857-4175-b7bd-6146726b9ec5}",
+            "boundaryDataType": {
+                "color": "#f5ca54",
+                "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                "name": "x"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{c6f0444a-c886-44d7-bc9a-96ce26d32e78}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{56362f5e-c033-4928-9826-258cad0a691d}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{33b9cee5-2445-453c-b9b8-ff3e5c3f3726}",
+            "id": "{10fbf9a6-a4ce-4d8e-8f30-ad12d2efad66}",
+            "position": {
+                "y": 30
+            },
+            "title": "x",
+            "view": {
+                "label": "x",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{7e363bdb-f5a7-4298-a74a-d68df2418f64}",
+            "boundaryDataType": {
+                "color": "#47AA84",
+                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                "name": "Scalar"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{a1272830-6986-4789-8a7e-ebc8855cbc66}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{dc1c82b9-40e9-455c-8690-9ea0b7bb8068}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{33b9cee5-2445-453c-b9b8-ff3e5c3f3726}",
+            "id": "{37260e2c-37a9-4051-bebb-d95e2b8ddafa}",
+            "position": {
+                "y": 95.58333333333326
+            },
+            "title": "separation",
+            "view": {
+                "label": "separation",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{2b2bcd07-5cbc-480d-b079-8b88689fc0e2}",
+            "boundaryDataType": {
+                "color": "#47AA84",
+                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                "name": "Scalar"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{8a4c10dd-c4fb-45c5-bb82-7df771bc7ef1}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{96fd55f2-54f7-4084-aa46-0898c2b67ad4}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{33b9cee5-2445-453c-b9b8-ff3e5c3f3726}",
+            "id": "{49a98c1c-bde7-4018-b123-561bcfb6f1f3}",
+            "position": {
+                "y": 134.19768550418848
+            },
+            "title": "depth",
+            "view": {
+                "label": "depth",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#f5ca54",
+                            "id": "{12c917b4-ecf7-4bd0-97d3-37d87eb9a211}",
+                            "name": "x"
+                        },
+                        "id": "{7e8e33a9-aa41-46aa-825c-d70f777c774a}",
+                        "isLabelCustomized": false,
+                        "portLabel": "x",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{49ef4542-1bae-4489-b821-639de6f175ed}",
+                        "isLabelCustomized": false,
+                        "portLabel": "a",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{697e8260-ada2-449a-9097-6dde07be18c5}",
+                        "isLabelCustomized": false,
+                        "portLabel": "b",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#000000",
+                            "id": "{16b1f5fc-65da-44ad-b551-790a5e49c93a}",
+                            "name": "Text"
+                        },
+                        "id": "{e2ec769d-06d4-402f-923d-19c9be26ac24}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Expression",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{ec069565-6713-41ca-9a6a-ada033d06f3c}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V"
+                    }
+                ]
+            },
+            "graphManager": "{33b9cee5-2445-453c-b9b8-ff3e5c3f3726}",
+            "id": "{b25d7463-615e-44f2-a121-ae6faa84eec9}",
+            "position": {
+                "x": 46.22861645041064,
+                "y": 145.43871074161723
+            },
+            "title": "",
+            "view": {
+                "name": "{8fa89261-cde7-430c-9451-91121fcc9cc0}",
+                "text": "b*well(8+4*a,10+4*a)"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{110728ae-0f7b-4f48-86d6-d98209e1549f}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V<sub>1</sub",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{e71e2fff-9de0-48d5-a3fd-c87dbed07b1c}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V<sub>2</sub",
+                        "requirement": 0
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{82b03bb5-e06f-49c1-a807-cec1568cd17d}",
+                        "isLabelCustomized": false,
+                        "portLabel": "a",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "defaultData": {
+                            "dataType": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}"
+                        },
+                        "id": "{8091df69-9ca9-43ae-9557-d1bf6ab54baa}",
+                        "isLabelCustomized": false,
+                        "portLabel": "b",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#000000",
+                            "id": "{16b1f5fc-65da-44ad-b551-790a5e49c93a}",
+                            "name": "Text"
+                        },
+                        "id": "{2bf990ad-9c77-4857-b13e-b2dec049cfbf}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Expression",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{d0baea89-4b6e-4d46-8db9-7ead1dd725c6}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V"
+                    }
+                ]
+            },
+            "graphManager": "{33b9cee5-2445-453c-b9b8-ff3e5c3f3726}",
+            "id": "{4a5cd032-28c0-4c2f-b38c-564218459aef}",
+            "position": {
+                "x": 321.7608430129113,
+                "y": 94.20335917911723
+            },
+            "title": "",
+            "view": {
+                "name": "{77e4d733-b7b3-46fe-a3c7-6f6f39d7bd8b}",
+                "text": "V1+V2"
+            }
+        },
+        {
+            "attachedPortId": "{91213ca7-e024-4405-b8f9-b22f518a3368}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{1f62f0c7-c32a-42ca-9469-47acd49bce74}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{b7fc6953-7f71-4764-9c88-5194cd2701fc}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{33b9cee5-2445-453c-b9b8-ff3e5c3f3726}",
+            "id": "{3200c7a8-ecfc-4a97-b76d-86964086ae87}",
+            "position": {
+                "y": 304.36546855411723
+            },
+            "title": "V",
+            "view": {
+                "label": "V",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{1ad6033f-53b3-43d0-981d-515daa4110c7}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 1,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{0dbf5524-f745-4dc6-995e-baaa725bd623}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{8b0192c1-37d6-4719-8b60-0a549822163d}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{33b9cee5-2445-453c-b9b8-ff3e5c3f3726}",
+            "id": "{19c4c706-9d88-4659-8ef3-bd427eb633ae}",
+            "position": {
+                "y": 206.20140605411757
+            },
+            "title": "V",
+            "view": {
+                "label": "V",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{a5c2a510-b4bc-45ba-8f7c-a0842da7eb6c}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 1,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{87e03328-0469-485f-ac8d-6c0f7e6f8cb5}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{4a8e75e9-e881-4998-8dce-390cb8a61958}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "id": "{6d306c3e-2f99-4e59-8b85-3a0abe06ee91}",
+            "position": {
+                "y": 154.61089083190393
+            },
+            "title": "1",
+            "view": {
+                "label": "1",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{867cec3e-eb1f-4dbe-8bf0-6250668f3165}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 1,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{1062af4b-5d75-4751-9903-422b1e7af34c}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{bed55fd9-67d6-425a-80f9-2c0856f59f9f}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "id": "{d31d5764-44cf-445d-9389-4bdab03ce6e6}",
+            "position": {
+                "y": 261.9537727763484
+            },
+            "title": "2",
+            "view": {
+                "label": "2",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{955cebc9-8767-4c07-ab57-3ec0b1c9ea88}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 1,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{583e3ab2-3da8-40ad-b763-9cae7eef224f}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{dfaba955-1465-4326-9947-1c888b5d1f21}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "id": "{d3dfbfa8-f71b-402a-8d03-4bba64d6d00c}",
+            "position": {
+                "y": 436.05186305412616
+            },
+            "title": "3",
+            "view": {
+                "label": "3",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{0db235a8-1d8a-412b-8b2d-5689253be352}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 1,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{90731408-dd05-4aa5-bec1-98038410e415}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{dad54b69-96c0-4277-a4ff-56238669277d}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "id": "{2a3bb73c-fd56-4fd4-a8c5-b2dc947babe8}",
+            "position": {
+                "y": 608.985890831904
+            },
+            "title": "4",
+            "view": {
+                "label": "4",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{27e45ef8-1c82-4f57-a1da-b9067990b586}",
+            "boundaryDataType": {
+                "color": "#5589EA",
+                "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                "name": "V"
+            },
+            "boundaryType": 1,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{40d8dbde-8d86-4f32-b168-433d8aa14a0b}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{959ea830-e451-4ffa-982c-fddc51b5b5af}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "id": "{3a8222e6-5bc4-446b-b769-3ecd160d7156}",
+            "position": {
+                "y": 796.7810297207928
+            },
+            "title": "5",
+            "view": {
+                "label": "5",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{c7e7a620-c599-4efa-9381-3c1a30d90f8e}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#1F75A2",
+                            "id": "{7301db27-e2ba-4382-82ce-a190a1a138e7}",
+                            "name": "H"
+                        },
+                        "id": "{9ecba9c4-a226-408a-922c-451a5454241c}",
+                        "isLabelCustomized": false,
+                        "portLabel": "H"
+                    }
+                ]
+            },
+            "graphManager": "{dc9df150-bc58-423e-8318-5c21d3908272}",
+            "id": "{fa8fe778-c6c9-4658-9b8f-864492d1ccdf}",
+            "position": {
+                "x": 2815.812727007699,
+                "y": -120.25493645937664
+            },
+            "title": "",
+            "view": {
+                "name": "{7d9870bf-0861-4e51-9c3e-8c9214e8840b}"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "defaultData": {
+                            "dataType": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}"
+                        },
+                        "id": "{986a87ef-7682-4813-b2c6-290cc1d2c59d}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#1F75A2",
+                            "id": "{7301db27-e2ba-4382-82ce-a190a1a138e7}",
+                            "name": "H"
+                        },
+                        "defaultData": {
+                            "dataType": "{7301db27-e2ba-4382-82ce-a190a1a138e7}"
+                        },
+                        "id": "{d20c9209-35a9-4b54-904b-ddbd4bae2d53}",
+                        "isLabelCustomized": false,
+                        "portLabel": "H",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#87C3C4",
+                            "id": "{b8b04970-673a-4be0-a517-45b11f54c4a6}",
+                            "name": "ψ"
+                        },
+                        "defaultData": {
+                            "dataType": "{b8b04970-673a-4be0-a517-45b11f54c4a6}"
+                        },
+                        "id": "{22773d97-05d1-4416-b9c7-e47fbf8e243c}",
+                        "isLabelCustomized": false,
+                        "portLabel": "ψ",
+                        "requirement": 1
+                    },
+                    {
+                        "dataType": {
+                            "color": "#ffbaba",
+                            "id": "{ea0d7eef-5aaf-4f02-bc03-6ed95608c1ff}",
+                            "name": "Integer"
+                        },
+                        "id": "{b8a8e042-328a-44bb-a761-86fde1e52023}",
+                        "isLabelCustomized": false,
+                        "portLabel": "n",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{f9ec841e-0564-4503-aff2-aeef94a6a001}",
+                            "name": "Vector"
+                        },
+                        "id": "{2935fa83-aa00-4307-9866-10e4fdce5684}",
+                        "isLabelCustomized": false,
+                        "portLabel": "x"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#00ff00",
+                            "id": "{e6abc157-e286-48d8-a664-040ed2118407}",
+                            "name": "Graph"
+                        },
+                        "id": "{265d769b-a307-4216-970b-2a83fab0b6f3}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V graph"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#00ff00",
+                            "id": "{e6abc157-e286-48d8-a664-040ed2118407}",
+                            "name": "Graph"
+                        },
+                        "id": "{2c53b50f-cb6f-418e-8a45-ea3d5248b315}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Psi squared graph"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#00ff00",
+                            "id": "{e6abc157-e286-48d8-a664-040ed2118407}",
+                            "name": "Graph"
+                        },
+                        "id": "{fbc3f8f1-78e9-4d0c-8fbd-5a64ab840d00}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Real Psi graph"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#00ff00",
+                            "id": "{e6abc157-e286-48d8-a664-040ed2118407}",
+                            "name": "Graph"
+                        },
+                        "id": "{95e826c3-080b-45e9-a23e-3b92badac285}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Im Psi graph"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{a25e7383-67bb-48a6-b5f5-16a2994c7a47}",
+                        "isLabelCustomized": false,
+                        "portLabel": "H Expectation value"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{69ca2eb3-ba28-49d7-81b3-9c230d077c0d}",
+                        "isLabelCustomized": false,
+                        "portLabel": "H Standard deviation"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{f9ec841e-0564-4503-aff2-aeef94a6a001}",
+                            "name": "Vector"
+                        },
+                        "id": "{3e574118-0464-4c67-b74f-7aff78e3e4a1}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Energy levels"
+                    },
+                    {
+                        "dataType": {
+                            "color": "#0089EA",
+                            "id": "{c0e658d8-b9b7-43e0-90eb-ddb87c6c7522}",
+                            "name": "Graph List"
+                        },
+                        "id": "{50d838fb-d866-4010-a64e-f860af7f029c}",
+                        "isLabelCustomized": false,
+                        "portLabel": "Psin"
+                    }
+                ]
+            },
+            "graphManager": "{dc9df150-bc58-423e-8318-5c21d3908272}",
+            "id": "{6406b7ce-efa7-4206-a73a-cff1235c6ecc}",
+            "position": {
+                "x": 2825.9053670604903,
+                "y": 408.81684358569237
+            },
+            "title": "",
+            "view": {
+                "n": "16",
+                "name": "{b42e12b4-8717-4629-952b-6e6e60cfa816}",
+                "plotAbs": false,
+                "plotEn": true,
+                "plotExpect": false,
+                "plotImag": false,
+                "plotPsin": true,
+                "plotReal": false,
+                "plotV": true,
+                "ymax": "10",
+                "ymin": "-12"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#5589EA",
+                            "id": "{7b2f4d3a-0eb1-457e-aae3-823bcbe2b258}",
+                            "name": "V"
+                        },
+                        "id": "{bc114ac7-83bb-4c68-ab1e-2911e8771c67}",
+                        "isLabelCustomized": false,
+                        "portLabel": "V",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#1F75A2",
+                            "id": "{7301db27-e2ba-4382-82ce-a190a1a138e7}",
+                            "name": "H"
+                        },
+                        "id": "{c1a8069c-b991-4e7a-abba-34700a4a060a}",
+                        "isLabelCustomized": false,
+                        "portLabel": "H"
+                    }
+                ]
+            },
+            "graphManager": "{dc9df150-bc58-423e-8318-5c21d3908272}",
+            "id": "{6a83646f-fa7f-46e7-a13c-d32b8602b8ea}",
+            "position": {
+                "x": 2820.644781824819,
+                "y": 268.59808131023175
+            },
+            "title": "",
+            "view": {
+                "name": "{7d9870bf-0861-4e51-9c3e-8c9214e8840b}"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{ca3b4993-5fc1-4fb9-8207-3c3cb0a3fa4c}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{9ee73471-2fd9-414a-8687-4631b40b1e6a}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{dc9df150-bc58-423e-8318-5c21d3908272}",
+            "id": "{86eaf9db-5d1a-44f7-82d0-b4787306c5fd}",
+            "position": {
+                "x": 2220.726551226557,
+                "y": 406.07359307359576
+            },
+            "title": "",
+            "view": {
+                "name": "{9c0b2d06-3f22-4a35-98e4-1cfebdf9fb2d}",
+                "number": "1"
+            }
+        },
+        {
+            "attachedPortId": "{c95d2e9b-3a43-4cb3-befb-e5faaa24578f}",
+            "boundaryDataType": {
+                "color": "#47AA84",
+                "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                "name": "Scalar"
+            },
+            "boundaryType": 0,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{abc42901-c671-4f1b-b93c-922ff6896e0a}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{57980aed-0560-4284-9ed8-34bdd3cd750c}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "id": "{ae8f556e-a752-4144-9123-998e2e8f3ed8}",
+            "position": {
+                "y": 418.79015044055996
+            },
+            "title": "Separation",
+            "view": {
+                "label": "Separation",
+                "name": "{0be9aa1c-6147-4297-b42c-5ae3932676a1}"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{bb568da7-75c1-4ca1-bab0-4cfd2a90fb48}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{e9d2a027-3ad7-468a-9212-e0cd11048b76}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{dc9df150-bc58-423e-8318-5c21d3908272}",
+            "id": "{e2a3b748-ed41-47ec-8420-601419c6d408}",
+            "position": {
+                "x": 2456.726551226557,
+                "y": 86.07359307359565
+            },
+            "title": "",
+            "view": {
+                "name": "{9c0b2d06-3f22-4a35-98e4-1cfebdf9fb2d}",
+                "number": "0"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{1a791384-fba6-426c-b483-70379320e752}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{d9ecc41f-83a9-4719-b599-7c740d12bfd5}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{dc9df150-bc58-423e-8318-5c21d3908272}",
+            "id": "{741c62d0-60c4-49c4-b88b-930ebd014ad5}",
+            "position": {
+                "x": 2466.05988455989,
+                "y": 96.7402597402624
+            },
+            "title": "",
+            "view": {
+                "name": "{9c0b2d06-3f22-4a35-98e4-1cfebdf9fb2d}",
+                "number": "0"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{47301193-a1a5-4925-9841-6f9899bf01b7}",
+                        "isLabelCustomized": false,
+                        "portLabel": "",
+                        "requirement": 0
+                    }
+                ],
+                "outputPorts": [
+                    {
+                        "dataType": {
+                            "color": "#47AA84",
+                            "id": "{6ff8fb9d-003d-4c42-9bc9-6796f93958e3}",
+                            "name": "Scalar"
+                        },
+                        "id": "{e5f95f18-669a-4047-9eb5-1793641537e2}",
+                        "isLabelCustomized": false,
+                        "portLabel": ""
+                    }
+                ]
+            },
+            "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "id": "{883b622c-8512-4baf-955d-45676ebc1c44}",
+            "position": {
+                "x": 0,
+                "y": 211.70681710722658
+            },
+            "title": "",
+            "view": {
+                "name": "{9c0b2d06-3f22-4a35-98e4-1cfebdf9fb2d}",
+                "number": "10"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                ],
+                "outputPorts": [
+                ]
+            },
+            "graphManager": "{fe67965d-474e-4892-a40a-cb73faac6fbd}",
+            "id": "{3c6931f1-347b-4e66-84ad-0c76d918e2a5}",
+            "position": {
+                "x": 0,
+                "y": 135.70681710722658
+            },
+            "title": "",
+            "view": {
+                "name": "{6ae39523-4f51-40f8-94ce-3f0b2ccdd1a1}",
+                "text": "Depth"
+            }
+        },
+        {
+            "attachedPortId": "{00000000-0000-0000-0000-000000000000}",
+            "boundaryType": 2,
+            "dataModel": {
+                "inputPorts": [
+                ],
+                "outputPorts": [
+                ]
+            },
+            "graphManager": "{dc9df150-bc58-423e-8318-5c21d3908272}",
+            "id": "{fc0a8290-a4f5-4adc-b05b-3d9aa0131418}",
+            "position": {
+                "x": 2093.710743966187,
+                "y": 322.0172055797113
+            },
+            "title": "",
+            "view": {
+                "name": "{6ae39523-4f51-40f8-94ce-3f0b2ccdd1a1}",
+                "text": "Separation between wells."
+            }
+        }
+    ],
+    "rootGraphManager": {
+        "equivalentNode": {
+            "dataModel": {
+                "inputPorts": [
+                ],
+                "outputPorts": [
+                ]
+            },
+            "graphManager": "{00000000-0000-0000-0000-000000000000}",
+            "id": "{0bf4addf-e4a4-49a9-973d-ddc89a27e225}",
+            "title": ""
+        },
+        "id": "{dc9df150-bc58-423e-8318-5c21d3908272}",
+        "inputBoundaryNodeIdsToPortIds": {
+        },
+        "outputBoundaryNodeIdsToPortIds": {
+        },
+        "parentId": "{00000000-0000-0000-0000-000000000000}"
+    }
+}

@@ -1,0 +1,87 @@
+\documentclass[10pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[english, danish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{fullpage}
+\usepackage{url}
+\usepackage{varioref}
+\usepackage{braket}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{amsmath,amssymb}
+\usepackage{mathtools}	
+
+\title{Skriveguide: Topologiske isolatorer, SSH-modellen.}
+\author{Kristian Knakkergaard Nielsen}
+\begin{document}
+\maketitle
+Målet med dette dokument er at give et forslag til, hvordan en rapport i projektet omkring topologiske isolatorer kan opbygges. Lignings- og figurreferencer refererer til SSH\_opgaver.pdf.
+
+\section{Introduktion/Indledning}
+Skal indeholde:
+\begin{itemize}
+\item Motivér hvorfor vi kigger SSH-modellen. 
+\item Introducér krystalstruktur med udgangspunkt i SSH-modellen. Brug figur 2. 
+\item Forklar kort de to analysemetoder: 1) analyse af `det indre' af materialet (bulk), og 2) analyse af kanten. 
+\end{itemize}
+
+Længde: 3/4 - 1 side. 
+
+\section{Egentilstande og energibånd}
+Skal indeholde:
+\begin{itemize}
+\item Introducér Hamiltonoperatoren i stedrum. Forklar kort Dirac-notationen og fysikken bag leddene. 
+\item Forklar kort transformationen til impulsrum (Fourier-transformationen), herunder hvad $k$ er.
+\item Opskriv Hamiltonoperatoren i impulsrum i matrixform (ligning (25)). 
+\item Definér og opskriv $\mathcal{H}_k$ som $2\times 2$ matrix. Omskriv i det samme $\mathcal{H}_k$ vha. Paulimatricer og vektoren $\mathbf{h}_k$. 
+\item Definér fasen $\phi_k$, og lav en tegning af denne ala figur 3. 
+\item Opskriv egentilstandene i ligning (16). Forklar kort, at $H\ket{\psi_{\pm, k}} = \pm |\mathbf{h}_k|\ket{\psi_{\pm, k}}$. 
+\item Plot energibåndene $E_{\pm, k} = \pm |\mathbf{h}_k|$ og forklar hvorledes disse fyldes efterhånden som man putter partikler ind i systemet. Understreg generalitet for faste stoffer.
+\item Indtegn båndgabet, $\Delta E$, på plottet af energibåndene.  
+\item Forklar, at båndgabet lukker, når $\delta t = 0$. Lav eventuelt en skitse heraf.
+\item Beskriv herudfra, hvad man forstår ved en topologisk faseovergang. 
+\end{itemize}
+
+Kan indeholde:
+\begin{itemize}
+\item Beskrivelse af Blochs sætning i relation til ligning (18) umiddelbart efter, at egentilstandene er opskrevet. 
+\end{itemize}
+
+Længde: 2 sider. 
+
+\section{Symmetri og topologi}
+Skal indeholde:
+\begin{itemize}
+\item Introducér symmetrien, $S$. 
+\item Opskriv på matrixform, ligning (25). Vis, at $SH = -HS$. Relatér dette til energierne og de fundne egentilstande. Henvis gerne til plottet af energibåndene her! 
+\item Beskriv, hvilken restriktion det sætter på $\mathcal{H}_k$, hvis vi \textit{kræver}, at systemet overholder symmetrien $S$. 
+\item Definér nu omdrejningstallet, $\mathcal{W}$. Forklar hvornår denne er en topologisk invariant. Henvis meget gerne til figuren, hvor I definerer fasen $\phi_k$. 
+\item Beregn omdrejningstallet som funktion af $\delta t$ og bemærk at den skifter diskontinuert i $\delta t = 0$. Relatér til båndgabet. 
+\end{itemize}
+
+Længde: 1 1/2 sider. 
+
+
+\section{Kanttilstanden}
+Skal indeholde:
+\begin{itemize}
+\item Opskriv og forklar ligning (26), Hamiltonoperatoren for den åbne kæde. 
+\item Bestem kanttilstanden for $\delta t > 0$. Understreg, at man ikke kan finde en for $\delta t < 0$. 
+\item Skitsér tilstanden og forklar hvad der sker i grænserne $\delta t \to 0$ og $\delta t \to t$. 
+\item Relatér til omdrejningstallet, $\mathcal{W}$. 
+\end{itemize}
+
+Længde: 1 side. 
+
+
+\section{Konklusion}
+Skal indeholde:
+\begin{itemize}
+\item En kort opridsning af, hvad vi har vist. 
+\item Beskriv, at man ikke kan vide om man er i topologisk fase ud fra energibåndene. 
+\item Beskriv, at man i stedet er nødt til at kigge på egentilstandene, og specifikt den topologiske invariant. 
+\end{itemize}
+
+Længde: højst 1/2 side. 
+
+\end{document}

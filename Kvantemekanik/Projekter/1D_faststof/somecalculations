@@ -1,0 +1,24 @@
+\documentclass[10pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[english, danish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{fullpage}
+\usepackage{url}
+\usepackage{varioref}
+\usepackage{braket}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{amsmath,amssymb}
+\usepackage{mathtools}	
+
+\title{Some calculations, phonons}
+\author{Kristian Knakkergaard Nielsen}
+\begin{document}
+\maketitle
+Remember $k_n = n \frac{2\pi}{Na}$, and $-\pi/a \leq k < \pi/a$. Hence, $\Delta k = \frac{2\pi}{Na}$. So:
+\begin{equation}
+E_0 = \frac{1}{2}\sum_k \hbar \omega(k) = \frac{1}{2}\frac{1}{\Delta k}\sum_k \hbar \omega(k)\Delta k \to \frac{1}{2}\frac{1}{\Delta k}\int_{-\pi/a}^{\pi/a} \hbar \omega(k) dk = \frac{1}{2}\frac{Na}{2\pi}\int_{-\pi/a}^{\pi/a} \hbar \omega(k) dk. 
+\end{equation}
+This is the standard approach of replacing a discrete sum with an integral. It is allowed to do as long as the function we integrate varies slowly over $\Delta k$. This is obtained for $N \gg 1$. 
+
+\end{document}
